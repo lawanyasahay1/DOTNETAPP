@@ -1,0 +1,6 @@
+@DotNetCICDApp_HostAddress = http://localhost:5034
+
+GET {{DotNetCICDApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
